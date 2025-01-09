@@ -285,7 +285,7 @@ The `HTTPBearer` class is used to enforce token-based authentication. It automat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](/LICENSE).
 
 ---
 
